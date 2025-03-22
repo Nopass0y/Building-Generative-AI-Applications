@@ -1,1 +1,0 @@
-# Building-Generative-AI-Applications
